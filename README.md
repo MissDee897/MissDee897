@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi! I'm Limpho Kgotla
 
-<!--
-**MissDee897/MissDee897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer**
+🎓 ICT Diploma Student  
+📍 South Africa
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://limpho.web.app  
+🔗 GitHub: https://github.com/MissDee897  
+🔗 LinkedIn: https://www.linkedin.com/in/limpho-kgotla-4182582a2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Frontend: HTML5, CSS3, JavaScript  
+- Backend: PHP, MySQL  
+- Tools: Git, Firebase, WordPress, Java  
+- Frameworks: Bootstrap, Firebase Auth & Hosting
+
+---
+
+## 🚀 Featured Projects
+- **LostAndFoundry** – University lost and found system  
+- **Path2Uni** – Student guidance web app  
+- **Personal Portfolio Website**  
+- **TRACN4 Marathon Website**
+
+Each project has a live demo link in my portfolio!
+
+---
+
+## 📬 Get in Touch
+Email: kgotlalimpho@gmail.com  
+Open to internships & junior dev roles.
